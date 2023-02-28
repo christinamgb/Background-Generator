@@ -1,2 +1,2 @@
 # Background-Generator
-A cool customizable color picker for creating.
+Use HTML, CSS, and Javascript to creat a cool customizable color picker.
